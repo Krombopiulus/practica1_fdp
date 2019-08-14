@@ -1,2 +1,2 @@
 # practica1_fdp
-Es para la escuela (creo)
+Práctica 1 Fundamentos de programación
